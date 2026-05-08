@@ -2,11 +2,19 @@
 Release of HighCardProject
 
 - Name Project: Through the Fractured
-- Genre: Card Collection, Puzzle-Platform
+- Genre: Card Collection, Puzzle-Platform, rogue-like
 - Technology: Unity (C#)
-- Description: Puzzle-Platform game, The project is currently in the development phase.
+- Description: Rogue-like game, The project is currently in the development phase.
 - Release Version: [HERE](https://github.com/vquang31/HighCardProjectRelease/releases/tag/Release)
 - Download: [HERE](https://github.com/vquang31/HighCardProjectRelease/releases/download/Release/TTF.0.10.1.rar)
+<br>
+Game reference:
+
+- MARIO 64: BAZR (action restricted by card)
+- Balatro (combo-play & buff)
+- Slay the Spire (quick-play & synergy card)
+- Legend of Runeterra (card-system)
+
 <br>
 
 ![InGame1](https://github.com/vquang31/HighCardProjectRelease/blob/main/Images/image%20(1).png)
